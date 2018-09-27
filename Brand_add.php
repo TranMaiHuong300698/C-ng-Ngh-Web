@@ -13,9 +13,9 @@
   </head>
   <body>
     <div class="wrapper">
-      <?php include "include/header.php" ?>
+      <?php include "header.php" ?>
 
-      <?php include "include/menu.php" ?>
+      <?php include "menu.php" ?>
 
       <div class="content">
             <?php
@@ -98,6 +98,6 @@
               </div>
             </from>
         </div>
-      <?php include "include/footer.php" ?>
+      <?php include "footer.php" ?>
   </body>
 </html>
