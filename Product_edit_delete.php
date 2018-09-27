@@ -8,8 +8,8 @@
   </head>
   <body>
     <div class="wrapper">
-      <?php include "include/header.php" ?>
-      <?php include "include/menu.php" ?>
+      <?php include "header.php" ?>
+      <?php include "menu.php" ?>
 
       <?php
         //kết nối vói database
@@ -48,7 +48,7 @@
            ?>
         </table>
       </div>
-      <?php include "include/footer.php" ?>
+      <?php include "footer.php" ?>
     </div>
   </body>
 </html>
