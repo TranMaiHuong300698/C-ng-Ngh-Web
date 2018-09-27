@@ -1,0 +1,12 @@
+.content{
+  width: 80%;
+  height: auto;
+  min-height: 500px;
+  justify-content: center;
+}
+.from-group{
+  margin: 30px 30px 30px 200px;
+}
+.table_list{
+  margin: 30px 30px 10px 200px;
+}
