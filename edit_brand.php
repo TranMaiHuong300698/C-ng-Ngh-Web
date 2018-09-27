@@ -14,8 +14,8 @@
   </head>
   <body>
     <div class="wrapper">
-      <?php include "include/header.php" ?>
-      <?php include "include/menu.php" ?>
+      <?php include "header.php" ?>
+      <?php include "menu.php" ?>
 
       <div class="content">
             <?php
@@ -123,7 +123,7 @@
             </form>
           </div>
         </div>
-      <?php include "include/footer.php" ?>
+      <?php include "footer.php" ?>
     </div>
     <?php ob_flush(); ?>
   </body>
